@@ -1,2 +1,0 @@
-# Esercizi
-Created with CodeSandbox
